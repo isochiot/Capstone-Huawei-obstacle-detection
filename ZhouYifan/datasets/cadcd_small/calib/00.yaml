@@ -1,0 +1,14 @@
+%YAML 1.0
+---
+image_width: 1280
+image_height: 1024
+camera_name: camera_F
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [653.956033188809, -0.235925653043616, 653.221172545916, 0, 655.540088617960, 508.732863993917, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.211078226790761, 0.101157542400588, -0.000329515817247860, 0.000330423801388672, -0.0232053947325804]

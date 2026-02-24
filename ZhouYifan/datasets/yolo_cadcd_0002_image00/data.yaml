@@ -1,0 +1,7 @@
+path: D:/AdverseWeather/datasets/yolo_cadcd_0002_image00
+train: images/train
+val: images/val
+names:
+  0: Car
+  1: Truck
+  2: Bus
