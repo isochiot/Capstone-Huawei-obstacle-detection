@@ -1,0 +1,3 @@
+monoWAD https://github.com/VisualAIKHU/MonoWAD?tab=readme-ov-file
+futr3d  https://github.com/Tsinghua-MARS-Lab/futr3d?tab=readme-ov-file
+TransFusion https://github.com/XuyangBai/TransFusion?tab=readme-ov-file

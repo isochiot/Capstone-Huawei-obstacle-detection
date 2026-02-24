@@ -1,0 +1,15 @@
+DAWN
+特点：针对恶劣天气和夜间场景，包括雨，雾，雪等，常被用于极端天气下的目标检测。
+链接：https://www.kaggle.com/datasets/shuvoalok/dawn-dataset
+
+ACDC
+特点：包含雾，雨，雪，夜四种恶劣天气，提供语义分割标签，使用语义分割与检测任务。
+链接：https://acdc.vision.ee.ethz.ch/
+
+nuScenes
+特点：包括雨，夜，雾等天气，多传感器数据丰富，很适合多模态融合研究。
+链接：https://www.nuscenes.org/nuscenes，需要注册下载。
+
+Oxford RobotCar
+特点：包含各种天气条件，同时收集2014年五月至2015年12月的数据，可以用于研究长期的变化
+链接：OxfordRobotCar_OpenPlaceRecognition
